@@ -1,4 +1,4 @@
-# Content_based_wine_recommender
+# Content-based Wine Recommender
 
 ## Table of Contents
 1. Installation
@@ -40,7 +40,7 @@ The analysis is carried out in the notebook: **Text Based Recommendation System 
 The main findings of the code can be found at the post available here: 
 https://medium.com/@benjaminehrensberger/find-similar-wines-to-the-one-you-love-d502e8168f76?source=friends_link&sk=1220fa5a66b7f60f16e0bb995f1044e3
 
-In short:
+Short:
 * There are 19 different Taster overall, which rate on average between 85.86 and 90.56 points.
 * The descriptions are comprised of descriptive, assoziative and extra information. 
 * It is possible to use this information to recommend wines. 
